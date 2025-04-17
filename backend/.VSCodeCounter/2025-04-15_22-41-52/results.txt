@@ -1,0 +1,53 @@
+Date : 2025-04-15 22:41:52
+Directory : /Users/azarak/projects/intermediatepython
+Total : 19 files,  273 codes, 5 comments, 92 blanks, all 370 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Python           |         16 |        256 |          5 |         88 |        349 |
+| JSON             |          1 |         16 |          0 |          0 |         16 |
+| Properties       |          1 |          1 |          0 |          3 |          4 |
+| pip requirements |          1 |          0 |          0 |          1 |          1 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                     | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                        |         19 |        273 |          5 |         92 |        370 |
+| . (Files)                                                                |          5 |         75 |          1 |         17 |         93 |
+| app                                                                      |         13 |        198 |          4 |         74 |        276 |
+| app (Files)                                                              |          2 |         14 |          1 |         11 |         26 |
+| app/models                                                               |          6 |        113 |          3 |         37 |        153 |
+| app/routes                                                               |          2 |         11 |          0 |          7 |         18 |
+| app/services                                                             |          3 |         60 |          0 |         19 |         79 |
+| tests                                                                    |          1 |          0 |          0 |          1 |          1 |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                 | language         | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| /Users/azarak/projects/intermediatepython/.env                           | Properties       |          1 |          0 |          3 |          4 |
+| /Users/azarak/projects/intermediatepython/app/__init__.py                | Python           |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediatepython/app/main.py                    | Python           |         14 |          1 |         10 |         25 |
+| /Users/azarak/projects/intermediatepython/app/models/__init__.py         | Python           |          4 |          2 |          2 |          8 |
+| /Users/azarak/projects/intermediatepython/app/models/db.py               | Python           |         12 |          0 |          6 |         18 |
+| /Users/azarak/projects/intermediatepython/app/models/habit.py            | Python           |         55 |          0 |         10 |         65 |
+| /Users/azarak/projects/intermediatepython/app/models/habit_completion.py | Python           |         13 |          0 |          6 |         19 |
+| /Users/azarak/projects/intermediatepython/app/models/habit_db.py         | Python           |         15 |          1 |          6 |         22 |
+| /Users/azarak/projects/intermediatepython/app/models/schemas.py          | Python           |         14 |          0 |          7 |         21 |
+| /Users/azarak/projects/intermediatepython/app/routes/__init__.py         | Python           |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediatepython/app/routes/habits.py           | Python           |         11 |          0 |          6 |         17 |
+| /Users/azarak/projects/intermediatepython/app/services/__init__.py       | Python           |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediatepython/app/services/habit_manager.py  | Python           |         45 |          0 |         13 |         58 |
+| /Users/azarak/projects/intermediatepython/app/services/habit_service.py  | Python           |         15 |          0 |          5 |         20 |
+| /Users/azarak/projects/intermediatepython/cli_legacy.py                  | Python           |         57 |          1 |         12 |         70 |
+| /Users/azarak/projects/intermediatepython/config.py                      | Python           |          1 |          0 |          1 |          2 |
+| /Users/azarak/projects/intermediatepython/habits.json                    | JSON             |         16 |          0 |          0 |         16 |
+| /Users/azarak/projects/intermediatepython/requirements.txt               | pip requirements |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediatepython/tests/test_habits.py           | Python           |          0 |          0 |          1 |          1 |
+| Total                                                                    |                  |        273 |          5 |         92 |        370 |
++--------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The first one",
+    "frequency": "Daily",
+    "streak": 0,
+    "dates_completed": []
+  },
+  {
+    "name": "1",
+    "frequency": "1",
+    "streak": 1,
+    "dates_completed": [
+      "2025-04-14"
+    ]
+  }
+]
