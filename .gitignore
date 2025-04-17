@@ -1,5 +1,40 @@
-*.pyc
-__pycache__/
+# 🔒 Secrets & Environment
 .env
-habits.db
+.env.*     # e.g., .env.local, .env.dev
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+*.egg-info/
+dist/
+build/
+
+# ☑️ VSCode
 .vscode/
+*.code-workspace
+
+# 🧪 Test junk
+.coverage
+pytest_cache/
+htmlcov/
+
+# 📦 Node/React Native (frontend/mobile)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.expo/
+.expo-shared/
+*.expo
+*.tsbuildinfo
+
+# 🗃️ OS-generated files
+.DS_Store
+Thumbs.db
+
+# 🐘 SQLite backup files
+*.sqlite3-journal
+*.db-journal
