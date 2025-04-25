@@ -4,8 +4,10 @@ from app.models.habit import Habit
 from typing import Sequence
 
 
-# Creates a new habit in the database
 async def create_habit(name: str, frequency: str) -> Habit:
+    """
+    Creates a new habit in the database
+    """
     # Create a database session (connection) using a context manager
     # When the context manager exits, the session is closed automatically
     async with AsyncSessionLocal() as session:

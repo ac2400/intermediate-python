@@ -11,6 +11,10 @@ if TYPE_CHECKING:
 
 # This is your database model for habits - it maps to a database table
 class Habit(Base):
+    """
+    This is the model for habits.
+    """
+
     # Define the table name in the database
     __tablename__ = "habits"
 

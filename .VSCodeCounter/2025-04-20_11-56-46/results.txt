@@ -1,0 +1,113 @@
+Date : 2025-04-20 11:56:46
+Directory : /Users/azarak/projects/intermediate-python
+Total : 56 files,  15770 codes, 120 comments, 250 blanks, all 16140 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |     14,711 |          0 |          4 |     14,715 |
+| TypeScript JSX     |         13 |        515 |         27 |         79 |        621 |
+| Python             |         21 |        357 |         85 |        123 |        565 |
+| Markdown           |          4 |         73 |          0 |         26 |         99 |
+| JSON with Comments |          3 |         54 |          0 |          2 |         56 |
+| TypeScript         |          5 |         33 |          8 |          8 |         49 |
+| JavaScript         |          2 |         14 |          0 |          5 |         19 |
+| pip requirements   |          1 |          8 |          0 |          2 |         10 |
+| Ini                |          1 |          5 |          0 |          1 |          6 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                  | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                     |         56 |     15,770 |        120 |        250 |     16,140 |
+| . (Files)                                                                                             |          2 |          7 |          0 |          2 |          9 |
+| backend                                                                                               |         30 |        460 |         85 |        153 |        698 |
+| backend (Files)                                                                                       |          5 |         30 |          0 |          5 |         35 |
+| backend/.VSCodeCounter                                                                                |          5 |         74 |          0 |         26 |        100 |
+| backend/.VSCodeCounter/2025-04-15_22-41-52                                                            |          5 |         74 |          0 |         26 |        100 |
+| backend/app                                                                                           |         11 |        110 |         56 |         53 |        219 |
+| backend/app (Files)                                                                                   |          2 |         16 |          9 |         11 |         36 |
+| backend/app/models                                                                                    |          5 |         65 |         30 |         29 |        124 |
+| backend/app/routes                                                                                    |          2 |         11 |          6 |          7 |         24 |
+| backend/app/services                                                                                  |          2 |         18 |         11 |          6 |         35 |
+| backend/archive                                                                                       |          3 |        160 |          3 |         33 |        196 |
+| backend/tests                                                                                         |          6 |         86 |         26 |         36 |        148 |
+| backend/tests (Files)                                                                                 |          3 |         48 |         10 |         20 |         78 |
+| backend/tests/test_api                                                                                |          1 |          0 |          0 |          1 |          1 |
+| backend/tests/test_services                                                                           |          2 |         38 |         16 |         15 |         69 |
+| frontend                                                                                              |         24 |     15,303 |         35 |         95 |     15,433 |
+| frontend/mobile                                                                                       |         24 |     15,303 |         35 |         95 |     15,433 |
+| frontend/mobile (Files)                                                                               |          5 |     14,748 |          0 |          4 |     14,752 |
+| frontend/mobile/app                                                                                   |          9 |        389 |         20 |         56 |        465 |
+| frontend/mobile/app (Files)                                                                           |          4 |        138 |         15 |         27 |        180 |
+| frontend/mobile/app/(tabs)                                                                            |          5 |        251 |          5 |         29 |        285 |
+| frontend/mobile/components                                                                            |          9 |        148 |         15 |         33 |        196 |
+| frontend/mobile/components (Files)                                                                    |          8 |        141 |         15 |         29 |        185 |
+| frontend/mobile/components/__tests__                                                                  |          1 |          7 |          0 |          4 |         11 |
+| frontend/mobile/constants                                                                             |          1 |         18 |          0 |          2 |         20 |
++-------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                              | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| /Users/azarak/projects/intermediate-python/backend/.VSCodeCounter/2025-04-15_22-41-52/details.md      | Markdown           |         28 |          0 |          6 |         34 |
+| /Users/azarak/projects/intermediate-python/backend/.VSCodeCounter/2025-04-15_22-41-52/diff-details.md | Markdown           |          9 |          0 |          6 |         15 |
+| /Users/azarak/projects/intermediate-python/backend/.VSCodeCounter/2025-04-15_22-41-52/diff.md         | Markdown           |         12 |          0 |          7 |         19 |
+| /Users/azarak/projects/intermediate-python/backend/.VSCodeCounter/2025-04-15_22-41-52/results.json    | JSON               |          1 |          0 |          0 |          1 |
+| /Users/azarak/projects/intermediate-python/backend/.VSCodeCounter/2025-04-15_22-41-52/results.md      | Markdown           |         24 |          0 |          7 |         31 |
+| /Users/azarak/projects/intermediate-python/backend/app/__init__.py                                    | Python             |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediate-python/backend/app/main.py                                        | Python             |         16 |          9 |         10 |         35 |
+| /Users/azarak/projects/intermediate-python/backend/app/models/__init__.py                             | Python             |          4 |          2 |          2 |          8 |
+| /Users/azarak/projects/intermediate-python/backend/app/models/db.py                                   | Python             |         12 |          7 |          7 |         26 |
+| /Users/azarak/projects/intermediate-python/backend/app/models/habit.py                                | Python             |         20 |         10 |          7 |         37 |
+| /Users/azarak/projects/intermediate-python/backend/app/models/habit_completion.py                     | Python             |         15 |          6 |          6 |         27 |
+| /Users/azarak/projects/intermediate-python/backend/app/models/schemas.py                              | Python             |         14 |          5 |          7 |         26 |
+| /Users/azarak/projects/intermediate-python/backend/app/routes/__init__.py                             | Python             |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediate-python/backend/app/routes/habits.py                               | Python             |         11 |          6 |          6 |         23 |
+| /Users/azarak/projects/intermediate-python/backend/app/services/__init__.py                           | Python             |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediate-python/backend/app/services/habit_service.py                      | Python             |         18 |         11 |          5 |         34 |
+| /Users/azarak/projects/intermediate-python/backend/archive/cli_legacy.py                              | Python             |         57 |          1 |         12 |         70 |
+| /Users/azarak/projects/intermediate-python/backend/archive/habit.py                                   | Python             |         57 |          1 |          9 |         67 |
+| /Users/azarak/projects/intermediate-python/backend/archive/habit_manager.py                           | Python             |         46 |          1 |         12 |         59 |
+| /Users/azarak/projects/intermediate-python/backend/config.py                                          | Python             |          1 |          0 |          1 |          2 |
+| /Users/azarak/projects/intermediate-python/backend/habits.json                                        | JSON               |         16 |          0 |          0 |         16 |
+| /Users/azarak/projects/intermediate-python/backend/launch.json                                        | JSON with Comments |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediate-python/backend/pytest.ini                                         | Ini                |          5 |          0 |          1 |          6 |
+| /Users/azarak/projects/intermediate-python/backend/requirements.txt                                   | pip requirements   |          8 |          0 |          2 |         10 |
+| /Users/azarak/projects/intermediate-python/backend/tests/__init__.py                                  | Python             |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediate-python/backend/tests/conftest.py                                  | Python             |         48 |         10 |         18 |         76 |
+| /Users/azarak/projects/intermediate-python/backend/tests/test_api/test_user_routes.py                 | Python             |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediate-python/backend/tests/test_habits.py                               | Python             |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediate-python/backend/tests/test_services/test_habit_service.py          | Python             |         38 |         16 |         14 |         68 |
+| /Users/azarak/projects/intermediate-python/backend/tests/test_services/test_user_services.py          | Python             |          0 |          0 |          1 |          1 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app.json                                   | JSON with Comments |         37 |          0 |          1 |         38 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/(tabs)/HabitsScreen.tsx                | TypeScript JSX     |         88 |          2 |         12 |        102 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/(tabs)/_layout.tsx                     | TypeScript JSX     |         67 |          3 |          5 |         75 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/(tabs)/index.tsx                       | TypeScript JSX     |         32 |          0 |          4 |         36 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/(tabs)/three.tsx                       | TypeScript JSX     |         36 |          0 |          4 |         40 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/(tabs)/two.tsx                         | TypeScript JSX     |         28 |          0 |          4 |         32 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/+html.tsx                              | TypeScript JSX     |         24 |         10 |          5 |         39 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/+not-found.tsx                         | TypeScript JSX     |         36 |          0 |          5 |         41 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/_layout.tsx                            | TypeScript JSX     |         48 |          4 |         12 |         64 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/app/modal.tsx                              | TypeScript JSX     |         30 |          1 |          5 |         36 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/babel.config.js                            | JavaScript         |          7 |          0 |          1 |          8 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/EditScreenInfo.tsx              | TypeScript JSX     |         70 |          0 |          8 |         78 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/ExternalLink.tsx                | TypeScript JSX     |         21 |          3 |          2 |         26 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/StyledText.tsx                  | TypeScript JSX     |          4 |          0 |          2 |          6 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/Themed.tsx                      | TypeScript JSX     |         31 |          4 |         11 |         46 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/__tests__/StyledText-test.js    | JavaScript         |          7 |          0 |          4 |         11 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/useClientOnlyValue.ts           | TypeScript         |          3 |          1 |          1 |          5 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/useClientOnlyValue.web.ts       | TypeScript         |          8 |          2 |          3 |         13 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/useColorScheme.ts               | TypeScript         |          1 |          0 |          1 |          2 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/components/useColorScheme.web.ts           | TypeScript         |          3 |          5 |          1 |          9 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/constants/Colors.ts                        | TypeScript         |         18 |          0 |          2 |         20 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/package-lock.json                          | JSON               |     14,644 |          0 |          1 |     14,645 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/package.json                               | JSON               |         43 |          0 |          1 |         44 |
+| /Users/azarak/projects/intermediate-python/frontend/mobile/tsconfig.json                              | JSON with Comments |         17 |          0 |          0 |         17 |
+| /Users/azarak/projects/intermediate-python/package-lock.json                                          | JSON               |          6 |          0 |          1 |          7 |
+| /Users/azarak/projects/intermediate-python/package.json                                               | JSON               |          1 |          0 |          1 |          2 |
+| Total                                                                                                 |                    |     15,770 |        120 |        250 |     16,140 |
++-------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
