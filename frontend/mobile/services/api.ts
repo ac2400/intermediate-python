@@ -1,4 +1,4 @@
-const BASE_URL = "http://Aleks-MacBook-Air.local:8000";
+const BASE_URL = "http://azc-air.local:8000";
 
 export async function getHabits() {
     const res = await fetch(`${BASE_URL}/habits`);
